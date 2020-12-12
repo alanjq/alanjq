@@ -1,4 +1,6 @@
 ### Hi there 👋
+🔭 I’m currently working on web development
+⚡ Fun fact: an idea and a cup of coffee is a good start
 
 <!--
 **alanjq/alanjq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
