@@ -1,9 +1,10 @@
 ### Hi there 👋
+- Front End Developer
 - 😄 It's dangerous to code alone
 - 🔭 I’m a Front End developer
-- 🌱 Learning TypeScript and Python
-- ⚡ Code any time any where, just add coffee
-- 📫 Need to contact me? email@alanjq.com (actually, write whatever before @alanjq.com, anyway it goes to the same email account, ;-) )
+- ⛸ Roller on my free time
+- 🌱 Learning TypeScript and new skate tricks
+- 📫 Need to contact me? alan@coffeeweb.studio
 
 <!--
 **alanjq/alanjq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
