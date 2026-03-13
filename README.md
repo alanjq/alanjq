@@ -3,8 +3,9 @@
 - ☕️ A human being who converts coffee to code
 - 😄 Coding alone is great but coding together is better
 - ⛸ Roller on my free time
+- 🏒 Hockey goalie
 - 📫 Need to contact me?
-- alan@coffeeweb.studio
-- Website (still in progress)
+- [alan@coffeeweb.studio](https://wa.link/aglzg9)
+- **Website**
 - 🔜 alanjq.com
 - 🔜 Other projects yet to come
