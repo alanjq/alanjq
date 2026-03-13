@@ -5,7 +5,7 @@
 - ⛸ Roller on my free time
 - 🏒 Hockey goalie
 - 📫 Need to contact me?
-- [alan@coffeeweb.studio](https://wa.link/aglzg9)
+- [WhatsApp me](https://wa.link/aglzg9)
 - **Website**
 - 🔜 alanjq.com
 - 🔜 Other projects yet to come
